@@ -75,5 +75,6 @@ Address Book Menu:
 * Replace arrays with linked lists  
 * Enhance search functionality (partial matching)  
 
+## 👨‍💻 Author
 
-### -PRAVALLIKA THRIUKKOVALLURU  
+### Pravallika Thirukkovalluru  
