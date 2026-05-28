@@ -1,5 +1,7 @@
 # 📒 Address Book in C  
 
+### DESCRIPTION
+
 This project is a Command-Line Interface (CLI) based Address Book application implemented in C.
 
 It follows a menu-driven approach to perform operations like creating, searching, updating, and removing contacts.
